@@ -1,4 +1,4 @@
-![logos.png](./logos.png)
+[![logos.png](./logos.png)](https://github.com/maxeonyx?tab=repositories)
 
 
 I'm currently a Master's student at Victoria University, Wellington, New Zealand.
