@@ -1,6 +1,6 @@
 [![logos.png](./logos.png)](https://github.com/maxeonyx?tab=repositories)
 
-I'm currently contracting for NZX, developing streaming data APIs.
+I'm currently contracting for [NZX](https://github.com/NZX), developing streaming data APIs.
 
 Before that, I was doing independent AI alignment research, and I am still interested in opportunities in that space. Last year I completed a Master's thesis in machine learning, training and applying [transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) models using [TensorFlow](https://www.tensorflow.org/).
 
